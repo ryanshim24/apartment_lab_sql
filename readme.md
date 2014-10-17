@@ -23,7 +23,7 @@ Write down the following sql statements that are required to solve the following
 
 ```    
 1. Show all the tables. --\dt
-2. Show all the users. 
+2. Show all the users. --\du
 3. Show all the data in the owners table. --SELECT * FROM owners;
 4. Show the names of all owners. -- SELECT name FROM owners; 
 5. Show the ages of all of the owners in ascending order. -- SELECT * FROM owners ORDER BY age ASC; 
